@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1525111314 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\main.c
+	"structHeader.h"
+
+1525098561 c:\users\ivan\desktop\vajnizadachi\kursova_qni\f1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525098561 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\f1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525111168 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\addweedtolist.c
+	"structHeader.h"
+
+1525111689 c:\users\ivan\desktop\vajnizadachi\kursova_qni\structheader.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525111314 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\cheapestweed.c
+	"structHeader.h"
+
+1525111314 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\freelist.c
+	"structHeader.h"
+
+1525111314 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\maxprofit.c
+	"structHeader.h"
+
+1525111314 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\proftifordefinedmonth.c
+	"structHeader.h"
+
+1525111314 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\readbinary.c
+	"structHeader.h"
+
+1525111314 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\themostexpensiveweed.c
+	"structHeader.h"
+
+1525111314 source:c:\users\ivan\desktop\vajnizadachi\kursova_qni\writebinaryfile.c
+	"structHeader.h"
+

@@ -1,0 +1,5 @@
+
+*.jpg
+bin/Debug/kursova_Qni.exe
+obj/Debug/addWeedToList.o
+obj/Debug/cheapestWeed.o

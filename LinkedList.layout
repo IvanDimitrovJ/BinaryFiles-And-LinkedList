@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="addWeedToList.c" open="1" top="0" tabpos="5">
+		<Cursor position="25" topLine="0" />
+	</File>
+	<File name="cheapestWeed.c" open="1" top="0" tabpos="6">
+		<Cursor position="27" topLine="0" />
+	</File>
+	<File name="f1.c" open="0" top="0" tabpos="0">
+		<Cursor position="62" topLine="0" />
+	</File>
+	<File name="freeList.c" open="1" top="0" tabpos="10">
+		<Cursor position="27" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="25" topLine="13" />
+	</File>
+	<File name="maxProfit.c" open="1" top="0" tabpos="8">
+		<Cursor position="27" topLine="0" />
+	</File>
+	<File name="proftiForDefinedMonth.c" open="1" top="0" tabpos="9">
+		<Cursor position="27" topLine="0" />
+	</File>
+	<File name="readBinary.c" open="1" top="0" tabpos="4">
+		<Cursor position="27" topLine="0" />
+	</File>
+	<File name="structHeader.h" open="1" top="1" tabpos="2">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="theMostExpensiveWeed.c" open="1" top="0" tabpos="7">
+		<Cursor position="27" topLine="0" />
+	</File>
+	<File name="writeBinaryFile.c" open="1" top="0" tabpos="3">
+		<Cursor position="49" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
